@@ -1,0 +1,33 @@
+*unordared list  
+<ul><il></il>
+</ul>
+*ordered list :number 
+<ol>
+<li>nnn</li>
+</ol>
+*To compain more then cell with each other we use :
+<td colspan= "the num of columse">
+<td rowspan = " the num of rows">
+*to make a table we must use tag : <table></table>
+* tales are composed of rows 
+   to creat row :   <tr>
+and rows contain cells :
+      to creat cells 
+        <th></th>----->Bold and centered .     
+        <td></td> --> normal
+*form:
+<input type="text">   :  Displays a single-line text input field.
+<input type="radio">  :	Displays a radio button (for selecting one of many choices).
+<input type="checkbox"> : Displays a checkbox (for selecting zero or more of many choices).
+<input type="submit"> :	Displays a submit button (for submitting the form).
+<input type="button"> :	Displays a clickable button.
+
+*Form Attributes :
+_blank :The response is displayed in a new window or tab
+_self :	The response is displayed in the current window
+_parent :The response is displayed in the parent frame
+_top :	The response is displayed in the full body of the window
+framename  :	The response is displayed in a named iframe
+* stayle link : (a:hover)
+
+

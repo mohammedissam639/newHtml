@@ -1,0 +1,56 @@
+
+
+
+
+
+footer{ background-color: dimgray;
+    color: white;
+    size: 5px;
+        text-align: center;
+
+
+}
+ header{
+    background-color: dimgray;
+    color: white;
+    position:sticky;
+    top:0;
+    size: 5px;
+       }
+
+
+    nav{ float: right;
+        text-align: right;
+        width: 50%;
+       font-size: 1.5;
+       bottom: 2em;
+        }
+    
+    
+
+    a:hover{font-size: 140%;
+        color: yellow;
+        text-decoration: underline;
+                           
+        }
+     a{color:white;
+         text-decoration:none;}
+         a:focus{
+            background-color: navy;
+         }
+         body>p{text-align: center;}
+         
+         
+         
+
+
+
+
+
+
+
+
+
+
+
+    
