@@ -1,0 +1,11 @@
+header{
+    background-color: black;
+    color: red;
+    size: 5px;
+    position: sticky;
+}
+nav{
+    float: right;
+    text-align: left;
+    
+}
